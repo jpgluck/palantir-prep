@@ -3,3 +3,5 @@
   - Gaps: Python for-loop syntax, index vs value, elif vs else if.
   
   -NC 02 Arrays and hashing 30 minutes, required help. learned to create empty set and add index the loop ran through to empty set to see if it's been "seen", then check for duplicate by seeing if the index (from list) is also in set.
+
+-NC 03 I went to go with a for loop but with help found out I could just see if something isn't true by saying if len(s) != len(t) return false, then use built in sorted to see if they == to be anagram. 
